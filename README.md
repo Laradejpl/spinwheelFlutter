@@ -1,5 +1,5 @@
 # Spinning Wheel Game
-by Larade jean-philippe
+by @Larade jean-philippe
 Une application Flutter interactive présentant une roue de la fortune avec des effets visuels et sonores. Les utilisateurs peuvent faire tourner la roue pour tenter de gagner différents prix, avec des animations de flammes pendant la rotation et des confettis en cas de gain.
 
 ## Fonctionnalités
